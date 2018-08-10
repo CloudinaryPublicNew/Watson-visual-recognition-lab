@@ -1,2 +1,2 @@
-# Initial page
+# Watson Visual Recognition Lab
 
